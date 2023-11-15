@@ -13,7 +13,7 @@ public class MayorMenor {
 
         if (num1 == num2) {
             System.out.println("los dos numeros son iguales");
-        } else if (num1>num2) {
+        } else if (num1>num2)  {
             System.out.println(num1 + " es mayor que " + num2);
             System.out.println(num2 + " es menor que " + num1);
         }
